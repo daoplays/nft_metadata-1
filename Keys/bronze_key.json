@@ -1,0 +1,38 @@
+{
+  "name": "A Bronze Key",
+  "symbol": "DKEY",
+  "description": "A simple design, but some of its original lustre still shines through.",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Bronze_Key.gif",
+  "external_url": "https://sol-dungeon.com",
+  "attributes": [
+    {
+      "trait_type": "material",
+      "value": "bronze"
+    }
+  ],
+  "collection": {
+     "name": "Dungeon Key Collection",
+     "family": "Dungeon"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Bronze_Key.gif",
+        "type": "image/gif"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Bronze_Key.gif",
+        "type": "image/gif",
+        "cdn": true
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DqRrP9F8f169Tr3PSsLazsindgGyKgZW5LbjGAAhXv6R",
+        "share": 100
+      }
+    ]
+  }
+}
