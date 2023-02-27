@@ -3,7 +3,7 @@
   "symbol": "DKEY",
   "description": "An ornate design, with the initials H.P. engraved at the top.",
   "seller_fee_basis_points": 0,
-  "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/Keys/main/Silver_Key.gif",
+  "image": "https://github.com/SolDungeon/nft_metadata/raw/main/Keys/Silver_Key.gif",
   "external_url": "https://sol-dungeon.com",
   "attributes": [
     {
@@ -18,11 +18,11 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/Keys/main/Silver_Key.gif",
+        "uri": "https://github.com/SolDungeon/nft_metadata/raw/main/Keys/Silver_Key.gif",
         "type": "image/png"
       },
       {
-        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/Keys/main/Silver_Key.gif",
+        "uri": "https://github.com/SolDungeon/nft_metadata/raw/main/Keys/Silver_Key.gif",
         "type": "image/png",
         "cdn": true
       }
