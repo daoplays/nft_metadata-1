@@ -3,7 +3,7 @@
   "symbol": "DKEY",
   "description": "The key still shines as though it were newly forged.  Only a series of strangely deliberate marks down the shaft break the smooth surface.",
   "seller_fee_basis_points": 500,
-  "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/Keys/main/Gold_Key.gif",
+  "image": "https://github.com/SolDungeon/nft_metadata/raw/main/Keys/Gold_Key.gif",
   "external_url": "https://sol-dungeon.com",
   "attributes": [
     {
@@ -18,11 +18,11 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/Keys/main/Gold_Key.gif",
+        "uri": "https://github.com/SolDungeon/nft_metadata/raw/main/Keys/Gold_Key.gif",
         "type": "image/gif"
       },
       {
-        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/Keys/main/Gold_Key.gif",
+        "uri": "https://github.com/SolDungeon/nft_metadata/raw/main/Keys/Gold_Key.gif",
         "type": "image/gif",
         "cdn": true
       }
