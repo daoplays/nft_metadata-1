@@ -3,7 +3,7 @@
   "symbol": "DKEY",
   "description": "A simple design, but some of its original lustre still shines through.",
   "seller_fee_basis_points": 500,
-  "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Bronze_Key.gif",
+  "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/Keys/main/Bronze_Key.gif",
   "external_url": "https://sol-dungeon.com",
   "attributes": [
     {
@@ -18,11 +18,11 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Bronze_Key.gif",
+        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/Keys/main/Bronze_Key.gif",
         "type": "image/gif"
       },
       {
-        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Bronze_Key.gif",
+        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/Keys/main/Bronze_Key.gif",
         "type": "image/gif",
         "cdn": true
       }
