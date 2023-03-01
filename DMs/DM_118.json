@@ -1,0 +1,38 @@
+{
+    "name": "DM #118",
+    "symbol": "DM",
+    "description": "A member of the dungeon masters guild",
+    "seller_fee_basis_points": 500,
+    "image": "https://github.com/SolDungeon/nft_metadata/raw/main/DMs/DM_Test.png",
+    "external_url": "https://sol-dungeon.com",
+    "attributes": [
+        {
+            "trait_type": "alignment",
+            "value": "Chaotic neutral"
+        }
+    ],
+    "collection": {
+        "name": "Dungeon Master Collection",
+        "family": "Dungeon"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://github.com/SolDungeon/nft_metadata/raw/main/DMs/DM_Test.png",
+                "type": "image/png"
+            },
+            {
+                "uri": "https://github.com/SolDungeon/nft_metadata/raw/main/DMs/DM_Test.png",
+                "type": "image/png",
+                "cdn": true
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "DqRrP9F8f169Tr3PSsLazsindgGyKgZW5LbjGAAhXv6R",
+                "share": 100
+            }
+        ]
+    }
+}
