@@ -3,7 +3,7 @@
   "symbol": "DMC",
   "description": "A guild of dungoen masters",
   "seller_fee_basis_points": 0,
-  "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/DMs/DM_Test.png",
+  "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/DMs/DM_Collection.gif",
   "external_url": "https://sol-dungeon.com",
   "attributes": [
   ],
@@ -14,11 +14,11 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/DMs/DM_Test.png",
+        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/DMs/DM_Collection.gif",
         "type": "image/gif"
       },
       {
-        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/DMs/DM_Test.png",
+        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/DMs/DM_Collection.gif",
         "type": "image/gif",
         "cdn": true
       }
