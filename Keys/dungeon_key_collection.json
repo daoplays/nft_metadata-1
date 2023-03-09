@@ -1,9 +1,9 @@
 {
-  "name": "The Dungeon Key Collection",
+  "name": "Dungeon Keys",
   "symbol": "D&D",
   "description": "A chest full of dungeon keys. Each found on the corpse of a previous adventurer and cleaned up a bit for your purchase.",
   "seller_fee_basis_points": 0,
-  "image": "https://arweave.net/ZtwDUZ-1QqnW28gTKhlrROMo2OuGVLCAVitodDrUeN8?ext=png",
+  "image": "https://www.arweave.net/QCmARPg_DqHZ2zhvn0_bVAO8ACXXfMWXk3aeYLlK8Fc/Key_Ring.png",
   "external_url": "https://sol-dungeon.com",
   "attributes": [
   ],
@@ -14,7 +14,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://arweave.net/ZtwDUZ-1QqnW28gTKhlrROMo2OuGVLCAVitodDrUeN8?ext=png",
+        "uri": "https://www.arweave.net/QCmARPg_DqHZ2zhvn0_bVAO8ACXXfMWXk3aeYLlK8Fc/Key_Ring.png",
         "type": "image/png"
       },
       {
