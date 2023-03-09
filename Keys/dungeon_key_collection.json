@@ -1,7 +1,7 @@
 {
   "name": "The Dungeon Key Collection",
   "symbol": "D&D",
-  "description": "A chest full of dungeon keys. Each found on the corpses of previous adventurers and cleaned up a bit for your purchase.",
+  "description": "A chest full of dungeon keys. Each found on the corpse of a previous adventurer and cleaned up a bit for your purchase.",
   "seller_fee_basis_points": 0,
   "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Keys/Key_Ring.png",
   "external_url": "https://sol-dungeon.com",
