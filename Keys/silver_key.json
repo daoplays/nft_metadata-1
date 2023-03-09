@@ -2,8 +2,8 @@
   "name": "A Silver Key",
   "symbol": "DKEY",
   "description": "An ornate design, with the initials H.P. engraved at the top.",
-  "seller_fee_basis_points": 0,
-  "image": "https://github.com/SolDungeon/nft_metadata/raw/main/Keys/Silver_Key.gif",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/QCmARPg_DqHZ2zhvn0_bVAO8ACXXfMWXk3aeYLlK8Fc/Silver_Key.gif",
   "external_url": "https://sol-dungeon.com",
   "attributes": [
     {
@@ -12,25 +12,25 @@
     }
   ],
   "collection": {
-     "name": "Dungeon Key Collection",
+     "name": "Dungeon Keys",
      "family": "Dungeon"
   },
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/SolDungeon/nft_metadata/raw/main/Keys/Silver_Key.gif",
-        "type": "image/png"
+        "uri": "https://www.arweave.net/QCmARPg_DqHZ2zhvn0_bVAO8ACXXfMWXk3aeYLlK8Fc/Silver_Key.gif",
+        "type": "image/gif"
       },
       {
         "uri": "https://github.com/SolDungeon/nft_metadata/raw/main/Keys/Silver_Key.gif",
-        "type": "image/png",
+        "type": "image/gif",
         "cdn": true
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "DqRrP9F8f169Tr3PSsLazsindgGyKgZW5LbjGAAhXv6R",
+        "address": "5YY9XMfbxRW2XAmPcupszuwmzwuvWXbEwJdnD6cU3HWy",
         "share": 100
       }
     ]
