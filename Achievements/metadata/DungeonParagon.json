@@ -1,0 +1,22 @@
+{
+    "name": "Dungeon Paragon",
+    "symbol": "D&D",
+    "image": "https://www.arweave.net/Bvy0U8B64WpyQeEM9Aooa6F691acvThDHb_cS9vz2yY/DungeonCrawler.gif",
+    "description": "Earn 10000 XP",
+    "external_url": "https://www.sol-dungeon.com/",
+    "seller_fee_basis_points": 0,
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.arweave.net/Bvy0U8B64WpyQeEM9Aooa6F691acvThDHb_cS9vz2yY/DungeonCrawler.gif",
+                "type": "image/gif"
+            },
+            {
+                "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/DungeonCrawler.gif",
+                "type": "image/gif",
+                "cdn": true
+            }
+        ],
+        "category": "image"
+    }
+}
