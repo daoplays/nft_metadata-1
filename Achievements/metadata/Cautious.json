@@ -17,6 +17,12 @@
                 "cdn": true
             }
         ],
-        "category": "image"
+        "category": "image",
+        "attributes": [
+            {
+                "trait_type": "Achievement",
+                "value": "Cautious"
+            }
+        ]
     }
 }
