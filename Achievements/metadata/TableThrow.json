@@ -1,14 +1,14 @@
 {
     "name": "(\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b",
     "symbol": "D&D",
-    "image": "https://www.arweave.net/Bvy0U8B64WpyQeEM9Aooa6F691acvThDHb_cS9vz2yY/TableThrow.gif",
+    "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/TableThrow.gif",
     "description": "Suffer a 10x losing streak",
     "external_url": "https://www.sol-dungeon.com/",
     "seller_fee_basis_points": 0,
     "properties": {
         "files": [
             {
-                "uri": "https://www.arweave.net/Bvy0U8B64WpyQeEM9Aooa6F691acvThDHb_cS9vz2yY/TableThrow.gif",
+                "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/TableThrow.gif",
                 "type": "image/gif"
             },
             {

@@ -1,14 +1,14 @@
 {
     "name": "You shall not pass!",
     "symbol": "D&D",
-    "image": "https://www.arweave.net/Bvy0U8B64WpyQeEM9Aooa6F691acvThDHb_cS9vz2yY/YouShallNotPass.gif",
+    "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/YouShallNotPass.gif",
     "description": "Be defeated by a Boss 50 times",
     "external_url": "https://www.sol-dungeon.com/",
     "seller_fee_basis_points": 0,
     "properties": {
         "files": [
             {
-                "uri": "https://www.arweave.net/Bvy0U8B64WpyQeEM9Aooa6F691acvThDHb_cS9vz2yY/YouShallNotPass.gif",
+                "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/YouShallNotPass.gif",
                 "type": "image/gif"
             },
             {

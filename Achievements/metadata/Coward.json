@@ -1,14 +1,14 @@
 {
     "name": "Coward",
     "symbol": "D&D",
-    "image": "https://www.arweave.net/Bvy0U8B64WpyQeEM9Aooa6F691acvThDHb_cS9vz2yY/Coward.gif",
+    "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/Coward.gif",
     "description": "Escape level 1 100 times",
     "external_url": "https://www.sol-dungeon.com/",
     "seller_fee_basis_points": 0,
     "properties": {
         "files": [
             {
-                "uri": "https://www.arweave.net/Bvy0U8B64WpyQeEM9Aooa6F691acvThDHb_cS9vz2yY/Coward.gif",
+                "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/Coward.gif",
                 "type": "image/gif"
             },
             {

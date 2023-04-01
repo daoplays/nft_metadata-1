@@ -1,7 +1,7 @@
 DungeonCrawler,Dungeon Crawler,Earn 100 XP
 DungeonExplorer,Dungeon Explorer,Earn 1000 XP
 DungeonParagon,Dungeon Paragon,Earn 10000 XP
-FirstBlood,First Blood,Kill your first rnemy
+FirstBlood,First Blood,Kill your first enemy
 GottaKillEmAll,Gotta Kill 'em All,Kill 10 types of enemy
 Rookie,Rookie,Kill a tier 1 boss
 Adventurer,Adventurer,Kill a tier 1 boss 10 times

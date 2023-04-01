@@ -3,14 +3,14 @@
   "symbol": "D&D",
   "description": "Soulbound achievements to award your exploits in the Dungeon",
   "seller_fee_basis_points": 0,
-  "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/collection.gif",
+  "image": "https://www.arweave.net/Bvy0U8B64WpyQeEM9Aooa6F691acvThDHb_cS9vz2yY/collection.gif",
   "external_url": "https://sol-dungeon.com",
   "attributes": [
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/collection.gif",
+        "uri": "https://www.arweave.net/Bvy0U8B64WpyQeEM9Aooa6F691acvThDHb_cS9vz2yY/collection.gif",
         "type": "image/gif"
       },
       {

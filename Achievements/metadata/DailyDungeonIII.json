@@ -1,14 +1,14 @@
 {
     "name": "Daily Dungeon III",
     "symbol": "D&D",
-    "image": "https://www.arweave.net/Bvy0U8B64WpyQeEM9Aooa6F691acvThDHb_cS9vz2yY/DailyDungeonIII.gif",
+    "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/DailyDungeonIII.gif",
     "description": "Enter the Dungeon on 100 consectutive days",
     "external_url": "https://www.sol-dungeon.com/",
     "seller_fee_basis_points": 0,
     "properties": {
         "files": [
             {
-                "uri": "https://www.arweave.net/Bvy0U8B64WpyQeEM9Aooa6F691acvThDHb_cS9vz2yY/DailyDungeonIII.gif",
+                "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/DailyDungeonIII.gif",
                 "type": "image/gif"
             },
             {
