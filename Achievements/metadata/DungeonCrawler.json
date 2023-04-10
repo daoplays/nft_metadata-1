@@ -1,14 +1,14 @@
 {
     "name": "Dungeon Crawler",
     "symbol": "D&D",
-    "image": "https://www.arweave.net/W0R5o-lIMgog3DYjrZ8Sq3HBT3FJRhq2d6vFATzXen0/DungeonCrawler.gif",
+    "image": "https://www.arweave.net/zEoxAi--le-vSy8nCTYoDTyecVYADRKBdDvAp6S2k4E/DungeonCrawler.gif",
     "description": "Earn 100 XP",
     "external_url": "https://www.sol-dungeon.com/",
     "seller_fee_basis_points": 0,
     "properties": {
         "files": [
             {
-                "uri": "https://www.arweave.net/W0R5o-lIMgog3DYjrZ8Sq3HBT3FJRhq2d6vFATzXen0/DungeonCrawler.gif",
+                "uri": "https://www.arweave.net/zEoxAi--le-vSy8nCTYoDTyecVYADRKBdDvAp6S2k4E/DungeonCrawler.gif",
                 "type": "image/gif"
             },
             {
