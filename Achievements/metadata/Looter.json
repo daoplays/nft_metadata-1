@@ -1,14 +1,14 @@
 {
     "name": "Looter",
     "symbol": "D&D",
-    "image": "https://www.arweave.net/qTdabwXjE5Lhn3GGKvbE3qyY-zHi32OPs7pv_x4L2qo/Looter.gif",
+    "image": "https://www.arweave.net/W0R5o-lIMgog3DYjrZ8Sq3HBT3FJRhq2d6vFATzXen0/Looter.gif",
     "description": "Accumulate 1000 SOL of loot",
     "external_url": "https://www.sol-dungeon.com/",
     "seller_fee_basis_points": 0,
     "properties": {
         "files": [
             {
-                "uri": "https://www.arweave.net/qTdabwXjE5Lhn3GGKvbE3qyY-zHi32OPs7pv_x4L2qo/Looter.gif",
+                "uri": "https://www.arweave.net/W0R5o-lIMgog3DYjrZ8Sq3HBT3FJRhq2d6vFATzXen0/Looter.gif",
                 "type": "image/gif"
             },
             {
