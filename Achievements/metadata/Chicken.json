@@ -1,18 +1,18 @@
 {
-    "name": "Like a Boss",
+    "name": "Chicken",
     "symbol": "D&D",
-    "image": "https://www.arweave.net/qTdabwXjE5Lhn3GGKvbE3qyY-zHi32OPs7pv_x4L2qo/LikeABoss.gif",
-    "description": "Kill 6 different bosses",
+    "image": "https://www.arweave.net/qTdabwXjE5Lhn3GGKvbE3qyY-zHi32OPs7pv_x4L2qo/Chicken.gif",
+    "description": "Escape level 1 1000 times",
     "external_url": "https://www.sol-dungeon.com/",
     "seller_fee_basis_points": 0,
     "properties": {
         "files": [
             {
-                "uri": "https://www.arweave.net/qTdabwXjE5Lhn3GGKvbE3qyY-zHi32OPs7pv_x4L2qo/LikeABoss.gif",
+                "uri": "https://www.arweave.net/qTdabwXjE5Lhn3GGKvbE3qyY-zHi32OPs7pv_x4L2qo/Chicken.gif",
                 "type": "image/gif"
             },
             {
-                "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/LikeABoss.gif",
+                "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/Chicken.gif",
                 "type": "image/gif",
                 "cdn": true
             }
@@ -22,7 +22,7 @@
     "attributes": [
         {
             "trait_type": "Achievement",
-            "value": "Like a Boss"
+            "value": "Chicken"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
     "name": "We could have been friends!",
     "symbol": "D&D",
-    "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/WeCouldHaveBeenFriends.gif",
+    "image": "https://www.arweave.net/qTdabwXjE5Lhn3GGKvbE3qyY-zHi32OPs7pv_x4L2qo/WeCouldHaveBeenFriends.gif",
     "description": "Defeat the Assassin as the Ranger",
     "external_url": "https://www.sol-dungeon.com/",
     "seller_fee_basis_points": 0,
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/WeCouldHaveBeenFriends.gif",
+                "uri": "https://www.arweave.net/qTdabwXjE5Lhn3GGKvbE3qyY-zHi32OPs7pv_x4L2qo/WeCouldHaveBeenFriends.gif",
                 "type": "image/gif"
             },
             {
@@ -17,12 +17,12 @@
                 "cdn": true
             }
         ],
-        "category": "image",
-        "attributes": [
-            {
-                "trait_type": "Achievement",
-                "value": "We could have been friends!"
-            }
-        ]
-    }
+        "category": "image"
+    },
+    "attributes": [
+        {
+            "trait_type": "Achievement",
+            "value": "We could have been friends!"
+        }
+    ]
 }
